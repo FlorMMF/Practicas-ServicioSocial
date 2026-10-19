@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(where node)",
+      "Exec(docker)",
+      "Exec(npm)",
+      "Exec(sed)",
+      "Exec(node)",
+      "Exec(grep)",
+      "Exec(awk)",
+      "Exec(PG_MEM=1 node)",
+      "Exec(sleep)"
+    ]
+  }
+}

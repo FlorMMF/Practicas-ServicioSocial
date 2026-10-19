@@ -1,0 +1,19 @@
+body {
+  background-color: #f5f6f8;
+}
+
+.oferta-card .badge {
+  font-weight: 500;
+}
+
+.navbar .nav-link.active {
+  font-weight: 600;
+}
+
+.notif-no-leida {
+  border-left: 4px solid #0d6efd;
+}
+
+.table > :not(caption) > * > * {
+  vertical-align: middle;
+}
